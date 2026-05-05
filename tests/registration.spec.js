@@ -1,7 +1,7 @@
 // @ts-check
 import { test } from '@playwright/test';
 import { RegistrationPage } from '../pages/registration/RegistrationPage';
-import { createUser } from './factories/user.factory';
+import { createUser } from '../utils/factories/user.factory';
 
 test.describe('Register', () => {
 

@@ -25,8 +25,6 @@ export class LoginPage{
         await expect(this.loginSelector.msgErrorLogin).toBeVisible();
     }
     async signIn(email, password){
-        const basePage = new BasePage(this.page);
-        await basePage.accessLoginOrRegistration();
         await this.fillEmail(email);
         await this.fillPassword(password);
         await this.clickButtonLogin();

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const filePath = path.resolve('tests/data/users.json');
+const filePath = path.resolve('utils/data/users.json');
 
 export function saveUser(user) {
   let users = [];
