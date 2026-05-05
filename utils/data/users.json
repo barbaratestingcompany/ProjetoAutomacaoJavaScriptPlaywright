@@ -202,5 +202,29 @@
     "city": "Sybleview",
     "zipCode": "00928",
     "mobile": "1-811-532-1822 x4580"
+  },
+  {
+    "firstName": "Aleen",
+    "lastName": "Rowe",
+    "email": "Jude75@hotmail.com",
+    "password": "Abc@123",
+    "address": "680 Gleichner Shoals",
+    "country": "Australia",
+    "state": "Oregon",
+    "city": "Darlenemouth",
+    "zipCode": "53078",
+    "mobile": "1-899-866-4636 x54510"
+  },
+  {
+    "firstName": "Kristopher",
+    "lastName": "Senger",
+    "email": "Corene.Dickinson@hotmail.com",
+    "password": "Abc@123",
+    "address": "316 Addison Passage",
+    "country": "Australia",
+    "state": "Washington",
+    "city": "Stehrtown",
+    "zipCode": "49702",
+    "mobile": "1-207-802-3995 x602"
   }
 ]
