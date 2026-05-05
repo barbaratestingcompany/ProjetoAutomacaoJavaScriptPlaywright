@@ -145,9 +145,7 @@ ProjetoAutomacaoJavaScriptPlaywright
 ┣ 📂 tests          # Casos de teste (specs) 
 ┣ 📂 pages          # Page Objects (ações e validações das telas) 
 ┣ 📂 utils          # Factories, helpers e massa de dados 
-┣ 📜 playwright.config.js 
-┣ 📜 eslint.config.js 
-┣ 📜 .eslintignore 
+┣ 📜 playwright.config.js
 ┣ 📜 package.json 
 ┗ 📜 README.md
 ```
