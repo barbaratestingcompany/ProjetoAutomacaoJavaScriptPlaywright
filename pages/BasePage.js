@@ -1,5 +1,4 @@
-import { expect, Page} from '@playwright/test';
-import { RegistrationPage } from './registration/RegistrationPage';
+import { expect } from '@playwright/test';
 export {LoginPage} from './login/LoginPage';
 export {RegistrationPage} from './registration/RegistrationPage';
 

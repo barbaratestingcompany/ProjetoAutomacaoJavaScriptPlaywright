@@ -226,5 +226,17 @@
     "city": "Stehrtown",
     "zipCode": "49702",
     "mobile": "1-207-802-3995 x602"
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Mohr",
+    "email": "Bianka.Dickinson-Prohaska@hotmail.com",
+    "password": "Abc@123",
+    "address": "886 Opal Court",
+    "country": "Australia",
+    "state": "Missouri",
+    "city": "Port Rhodaside",
+    "zipCode": "40714",
+    "mobile": "(259) 786-2220 x283"
   }
 ]
