@@ -10,7 +10,7 @@ export class CartSelector{
         this.totalPrice = page.locator('p.cart_total_price');
         this.removeProductButton = page.locator('a[data-product-id="2"]');
         this.emptyCartMessage = page.locator('text=Cart is empty! Click here to buy products.');
-
+        this.productDetails = page.locator('text=Men Tshirt');
     }
 }
 

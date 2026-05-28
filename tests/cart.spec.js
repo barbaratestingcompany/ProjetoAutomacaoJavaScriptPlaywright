@@ -18,3 +18,13 @@ test('Remove product from cart', async ({ page }) => {
   await cartPage.validateEmptyCart();
 });
 
+test('Adding a review to the product', async ({ page }) => {
+  const cartPage = new CartPage(page);
+
+  await page.goto('/');
+  await cartPage.addProductToCart();
+  await cartPage.addingAReview();
+});
+
+
+

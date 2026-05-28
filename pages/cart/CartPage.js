@@ -36,4 +36,8 @@ export class CartPage {
     async validateEmptyCart() {
         await expect(this.cartSelector.emptyCartMessage).toBeVisible();
     }
+    
+    async addingAReview(){
+        await this.cartSelector.productDetails.click();
+    }
 }
